@@ -2,15 +2,25 @@
 
 
 ### About Me
-👩🏻‍💻 Hello, I'm Nino Han, a passionate and curious AI/ML Ops Engineer. With 6 years of experience as a project manager and a flight dispatcher for 6 years, I bring a wealth of knowledge in Information Systems and Air Traffic Management (ATM). 
 
-📚 Currently, I am pursuing a Master's degree in Statistics at Rutgers, the State University of New Jersey, where I focuse on enhancing my statistical knowledge and DevOps engineering skills.
+👩🏻‍💻 Hello, I'm Nino Han, a passionate and curious AI/ML Ops Engineer.
+
+### As a System Engineer at Jeju Air:
+- Led a centralized data lake using Apache Kafka for real-time ingestion of aircraft sensor data and Apache Spark for large-scale processing, enabling predictive flight operations.
+- Leveraged SQL and Python to extract, transform, and analyze large datasets of air-to-ground communication, achieving a 39% cost reduction.
+- Conducted market research, cost analyses, strategic negotiations, and contract management between major partners such as Boeing Jeppesen, Collins ARINC, Lufthansa Systems, SITA, and Airbus Navblue.
+- Honored Employee of the Year (2022) among 3,000+ staff.
+- Projects: Aeronautical Information, Scheduling System, Flight Operations, and Flight Tracking
 
 
-### What You'll Find Here
-01. Leetcode
-02. Project
-03. Book
+### Skills:
+- Analytics and Statistics: Machine Learning, Regression, Time Series, RFM analysis, A/B Testing, Visualization (Tableau)
+- Big Data and ML/DevOps: Apache Kafka, Apache Spark, Apache Airflow, CI/CD, Docker, Kubernetes, AWS Cloud
+- Project Management: Jira, Slack
+- Programming Language and other: Python, R, SQL, C, HTML, CSS, Javascript
+With 6 years of experience as a project manager and a flight dispatcher for 6 years, I bring a wealth of knowledge in Information Systems and Air Traffic Management (ATM). 
+
+
 
 
 ### Contact
