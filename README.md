@@ -17,7 +17,7 @@
 - Big Data and ML/DevOps: Apache Kafka, Apache Spark, Apache Airflow, CI/CD, Docker, Kubernetes, AWS Cloud
 - Project Management: Jira, Slack
 - Programming Language and other: Python, R, SQL, C, HTML, CSS, Javascript
-With 6 years of experience as a project manager and a flight dispatcher for 6 years, I bring a wealth of knowledge in Information Systems and Air Traffic Management (ATM). 
+
 
 
 
